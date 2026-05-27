@@ -1,0 +1,13 @@
+{
+  "name": "Dollaris",
+  "symbol": "USD",
+  "description": "Dollaris USD Protocol Token",
+  "image": "https://raw.githubusercontent.com/dollaris-core/dollaris/main/logo.png",
+  "website": "https://dollaris.pro",
+  "email": "support@dollaris.pro",
+  "twitter": "https://x.com/DollarisUSD",
+  "telegram": "https://t.me/USD_DOLLARIS",
+  "contract": "0x4B3B04EAbeec8aa287e8eeb624d39c8ae331C4e1",
+  "decimals": 18,
+  "chain": "BSC"
+}
